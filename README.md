@@ -1,8 +1,8 @@
-Cajero automático usando Tkinter y SQLite3
+ATM using Tkinter & SQLite3
 
-Funciones: 
-- Retirar dinero
-- Depositar dinero
-- Transferencias entre usuarios
-- Pago de servicios
-- Cambio de contraseña
+Features: 
+- Withdraw
+- Deposit
+- Transfer money between users
+- Payments
+- Change password
