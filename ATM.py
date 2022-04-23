@@ -352,7 +352,7 @@ def change_password(current, new, confirm):
 
 # ================== Login Frame ================== #
 
-gnb_img = PhotoImage(file="img/GNB.png")
+gnb_img = PhotoImage(file="img/GNB.png")  # Yes, I'm a big HIMYM fan
 label19 = Label(frLogin, image=gnb_img)
 label19.grid(row=0, column=0, padx=10, pady=10, columnspan=2)
 label19.place(x=125, y=35)
