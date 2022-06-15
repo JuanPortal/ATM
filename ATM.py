@@ -206,7 +206,7 @@ def withdrawal(amount):
         label11.place(x=179, y=133)
 
 
-# ============ Depósito Function ============ #
+# ============ Deposit Function ============ #
 
 def deposit(amount):
     deposit_amount.set("")
