@@ -1,4 +1,4 @@
-ATM using Tkinter & SQLite3
+ATM made with Python using Tkinter & SQLite3
 
 Features: 
 - Withdraw
